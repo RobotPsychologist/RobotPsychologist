@@ -1,4 +1,4 @@
-# Hello, I'm $$RobotPsychologist$$ 👋
+# Hello, I'm RobotPsychologist 👋
 
 ## About Me
 - 🌱 I’m currently learning JavaScript
