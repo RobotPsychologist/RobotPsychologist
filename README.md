@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hello, I'm $$RobotPsychologist$$ 👋
 
-<!--
-**RobotPsychologist/RobotPsychologist** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+## About Me
+- 🌱 I’m currently learning JavaScript
+- 👯 I’m looking to collaborate on Diabetes related ML/AI projects
+- 🤔 I’m looking for help with Diabetes related ML/AI projects
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+## GitHub Stats
+![$$RobotPsychologist$$'s GitHub stats](https://github-readme-stats.vercel.app/api?username=$$RobotPsychologist$$&show_icons=true&theme=radical)
+
+## Top Languages
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=$$RobotPsychologist$$&layout=compact&theme=radical)
