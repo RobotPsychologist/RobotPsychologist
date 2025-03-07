@@ -9,7 +9,8 @@
 - ⚡ Fun fact: ...
 
 ## GitHub Stats
-![RobotPsychologist's GitHub stats](https://github-readme-stats.vercel.app/api?username=RobotPsychologist&show_icons=true&theme=one_dark_pro)
+![RobotPsychologist's Stats](https://github-readme-stats.vercel.app/api?username=RobotPsychologist&theme=tokyonight&show_icons=true&hide_border=false&count_private=true&hide=jupyter)
 
-## Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotPsychologist&layout=compact&theme=one_dark_pro)
+![RobotPsychologist's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobotPsychologist&theme=tokyonight&hide_border=false)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotPsychologist&layout=compact&theme=one_dark_pro&hide=jupyter%20notebook)
