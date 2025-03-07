@@ -13,4 +13,4 @@
 
 ![RobotPsychologist's Streak](https://github-readme-streak-stats.herokuapp.com/?user=RobotPsychologist&theme=tokyonight&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotPsychologist&layout=compact&theme=one_dark_pro&hide=jupyter%20notebook)
+![RobotPsychologist's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=RobotPsychologist&theme=tokyonight&show_icons=true&hide_border=false&layout=compact)
